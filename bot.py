@@ -5,7 +5,7 @@ import random
 board = [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
 player_symbol = 'X'
 computer_symbol = 'O'
-bot_token = ''
+bot_token = 'TOKEN'
 chat_id = ''
 turn = 'player'
 
